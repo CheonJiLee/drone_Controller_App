@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/leecheonji/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/leecheonji/Desktop/드론 소프트웨어/0828 두번째/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-90830bedddf4b1091c76a263b2127062db46e49d.jar" />
+    </item>
+    <item
+        jar="/Users/leecheonji/Desktop/드론 소프트웨어/0828 두번째/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/leecheonji/Desktop/드론 소프트웨어/0828 두번째/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-139d7b1c8c30889ce9c325a8511c34c305c26e45.jar" />
+    </item>
+    <item
+        jar="/Users/leecheonji/Desktop/드론 소프트웨어/0828 두번째/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/leecheonji/Desktop/드론 소프트웨어/0828 두번째/app/build/intermediates/pre-dexed/debug/classes-6a9cb5ab07e092837d6fc5e16719f96942cf1eda.jar" />
+    </item>
+    <item
+        jar="/Users/leecheonji/Desktop/드론 소프트웨어/0828 두번째/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/leecheonji/Desktop/드론 소프트웨어/0828 두번째/app/build/intermediates/pre-dexed/debug/classes-722fc0425c0c4e16f0f2a6bb3e1aac4ff683385c.jar" />
+    </item>
+
+</items>
